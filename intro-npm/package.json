@@ -1,0 +1,24 @@
+{
+  "name": "intro-npm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanssal/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanssal/test/issues"
+  },
+  "homepage": "https://github.com/juanssal/test#readme",
+  "description": ""
+}
